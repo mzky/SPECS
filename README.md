@@ -1,2 +1,2 @@
 # SPECS
-SPECS( openssl libressl openssh... )
+Build the SPECS file used by rpm ( openssl libressl openssh... )
